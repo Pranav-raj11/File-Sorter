@@ -1,0 +1,7 @@
+Concepts
+
+os.listdir() - Returns a list of all files and folders in a directory
+
+os.scandir() - Returns an iterator of all the objects in a directory including file attribute information
+
+pathlib.Path.iterdir() - Returns an iterator of all the objects in a directory including file attribute information
